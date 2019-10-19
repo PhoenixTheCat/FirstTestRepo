@@ -2,7 +2,5 @@
 
 
 int main(){
-
-std::cout << "Version1";
-
-}
+std::cout << "2terVersuch";
+}	
